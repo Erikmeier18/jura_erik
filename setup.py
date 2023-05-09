@@ -11,7 +11,7 @@ setuptools.setup(
 	packages=setuptools.find_packages(),
 	long_description=long_description,
 	long_description_content_type="text/markdown",
-	url="https://github.com/Erikmeier18/jura_erik/tree/main/rv_curve_jura"
+	url="https://github.com/Erikmeier18/jura_erik/tree/main/rv_curve_jura",
 	install_requires = ["numpy","matplotlib"],
 	classifiers=["Programming Language :: Python :: 3"],
 )
