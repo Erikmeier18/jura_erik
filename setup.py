@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r") as fh:
 	long_description = fh.read() 
 setuptools.setup(
-	name="rv_curve_jura",
+	name="rv_curve_jura_erik",
 	version="0.1",
 	author="Erik Meier",
 	author_email="erikmeier18@gmail.com",
